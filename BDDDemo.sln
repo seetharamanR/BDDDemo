@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDDDemo", "BDDDemo\BDDDemo.csproj", "{6F7AD962-DF66-4973-AD90-CDC75B7AEBBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BehaviorDrivenDevelopment.Service", "BehaviorDrivenDevelopment.Service\BehaviorDrivenDevelopment.Service.csproj", "{20B78DDF-9932-43EF-9C06-7B006AD0B0F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F7AD962-DF66-4973-AD90-CDC75B7AEBBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7AD962-DF66-4973-AD90-CDC75B7AEBBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7AD962-DF66-4973-AD90-CDC75B7AEBBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7AD962-DF66-4973-AD90-CDC75B7AEBBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20B78DDF-9932-43EF-9C06-7B006AD0B0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20B78DDF-9932-43EF-9C06-7B006AD0B0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20B78DDF-9932-43EF-9C06-7B006AD0B0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20B78DDF-9932-43EF-9C06-7B006AD0B0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E66A4A-50AD-409E-933E-52FACF26C791}
+	EndGlobalSection
+EndGlobal
